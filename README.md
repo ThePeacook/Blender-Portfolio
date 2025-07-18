@@ -1,4 +1,4 @@
-# Blender-Portfolio
+# Blender Projects
 <details>
 <summary>First Build</summary>
 File: https://github.com/ThePeacook/Blender-Portfolio/blob/main/Blender-Files/First%20Build.blend
