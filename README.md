@@ -3,4 +3,4 @@
 ### [Ways to get in touch with me](https://linktr.ee/Peacook)
 
 ## My Portfolio:
-[Learning Blender](https://github.com/ThePeacook/Blender-Portfolio/tree/main/Learning%20Blender)
+- [Learning Blender](https://github.com/ThePeacook/Blender-Portfolio/tree/main/Learning%20Blender)
