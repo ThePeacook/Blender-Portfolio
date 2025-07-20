@@ -8,8 +8,8 @@
   ## First Build
   I followed the guide in [this video](https://youtu.be/uOmYInaX-wE?si=HwOj1ibuq26Y7SHJ). It taught me the basics of Blender very well. My biggest trouble I had was the lighting, but I feel confident about the rest. Various times, I got distracted and did my own thing. I was only meant to use object mode in the guide, but I did use edit mode on the bottom of the bush (You'll have to view it in the file), and the ground, which was originally a cylinder that I beveled and merged. I also made sure to make the models my way, as that challenges me to be creative
   
-  [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Blender-Files/First%20Build.blend)
+  [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/First%20Build.blend)
 <details>
   <summary>Image:</summary>
-  <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Images/First%20Build.png" width="1000">
+  <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Learning%20Blender/Images/First%20Build.png" width="1000">
 </details>
