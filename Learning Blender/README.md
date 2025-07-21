@@ -6,11 +6,11 @@
   Later, I'll be watching [this video](https://youtu.be/J6b_pcAX1TQ?si=q7e2-6FREk54EysJ).
 
   ## Edit Mode Build
-  I watched half of [this video](https://youtu.be/8VmXzjgWQEg?si=tQnfDizexSrvXcY-). I skipped the part where he made his build, and I decided on making a warehouse instead of a cafe. If I do have trouble with editing, I will check back to see if I missed anything important, but I am now comfortable using Object and Edit Mode. With lighting this time around? I'm starting to get it, but I'll need some more practice with it to be comfortable with it
+  I watched half of [this video](https://youtu.be/8VmXzjgWQEg?si=tQnfDizexSrvXcY-). I skipped the part where he made his build, and I decided on making a warehouse instead of a cafe. If I do have trouble with editing, I will check back to see if I missed anything important, but I am now comfortable using Object and Edit Mode. With lighting this time around? I'm starting to get it, but I'll need some more practice with it to be comfortable with it. I did have lots of trouble with modeling certain objects, but I figured them all out and was able to complete my vision without skipping any steps I planned on doing! Proud of myself for that
 
 The garbage bag was the only object I used to copy the reference from inside the game. Each bag looks different because I used the randomizer for proportional editing and moved/scaled them around a bit. You can't see it in the render, but I still had fun making the bags look different
 
-I did have lots of trouble with modeling certain objects, but I figured them all out and was able to complete my vision without skipping any steps I planned on doing! Proud of myself for that
+I purposely didn't smooth out anything, because I wasn't going for a plastic/realistic look, I wanted to show the low polygons as it's the artstyle I'm going for. I did add too much detail to some parts, but that was mainly me testing out the tools, so I wasn't FULLY focused on the artstyle
 
 [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Second%20Build.blend)
 <details>
