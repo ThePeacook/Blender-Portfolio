@@ -3,7 +3,7 @@
   I am going to watch [this entire playlist](https://youtube.com/playlist?list=PLBFlNqVVeLRwxPka8Ia1s21CS380folEA&si=Ry1s9J6yCDHpZwcb) made by [sorry stacy](https://www.youtube.com/channel/UCO3AOLFI3GsXAuRhYOR-wyA) and document my progress. This type of low-poly style is something I love, so I'm hoping I can create this in the future
 
   ## Isometric Room Build
-  Later, I'll be watching [these](https://youtu.be/J6b_pcAX1TQ?si=q7e2-6FREk54EysJ) [three](https://youtu.be/9o7RDkFhOxg?si=BeNI9miF_BTCAg9N) [videos](https://youtu.be/Pe7WD586jzk?si=PzDOez3inC_5RS0D).
+  Later, I'll be watching [these](https://youtu.be/J6b_pcAX1TQ?si=q7e2-6FREk54EysJ) [three](https://youtu.be/9o7RDkFhOxg?si=BeNI9miF_BTCAg9N) [videos](https://youtu.be/Pe7WD586jzk?si=PzDOez3inC_5RS0D). I'm not too sure on if I'll watch this. I'm being told what to do rather than taught, but I'll give it a try when I'm ready
 
   ## Edit Mode Build
   I watched half of [this video](https://youtu.be/8VmXzjgWQEg?si=tQnfDizexSrvXcY-). I skipped the part where he made his build, and I decided on making a warehouse instead of a cafe. If I do have trouble with editing, I will check back to see if I missed anything important, but I am now comfortable using Object and Edit Mode. With lighting this time around? I'm starting to get it, but I'll need some more practice with it to be comfortable with it. I did have lots of trouble with modeling certain objects, but I figured them all out and was able to complete my vision without skipping any steps I planned on doing! Proud of myself for that
