@@ -8,7 +8,7 @@
   ## Isometric Room Build
   I will be skipping [these](https://youtu.be/J6b_pcAX1TQ?si=q7e2-6FREk54EysJ) [three](https://youtu.be/9o7RDkFhOxg?si=BeNI9miF_BTCAg9N) [videos](https://youtu.be/Pe7WD586jzk?si=PzDOez3inC_5RS0D). I had a hard time following the video, and I felt that I wasn't learning. I am also using Blender 4.5.0, and I believe these videos are outdated. At 2:12 in the video, her faces was different from mine, and I couldn't continue. I swear I tried my best to continue through the video, but I have no clue. Even the more recent people in the comments are lost
 
-  In the download I added floor tiles just for the fun of it, it wasn't what I was supposed to do in the tutorial
+  In the download I added floor tiles just for the fun of it, it wasn't the correct floor the tutorial was showing
 
 [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Isometric%20Bedroom.blend)
 
