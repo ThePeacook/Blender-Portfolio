@@ -6,5 +6,5 @@
   [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Wine%20Glass.blend)
 <details>
   <summary>Render:</summary>
-  <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Daily3D%20Reddit/Images/Wine%20Glass.png" width="1000">
+  <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Daily3D%20Reddit/Images/Wine%20Glass.png" width="500">
 </details>
