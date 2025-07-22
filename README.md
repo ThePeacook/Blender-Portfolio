@@ -1,4 +1,4 @@
-# Welcome to my Blender Portfolio! I am currently learning Blender, so there's not much here so far
+# Welcome to my Blender Portfolio!
 
 ### [Ways to get in touch with me](https://linktr.ee/Peacook)
 
