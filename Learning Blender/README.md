@@ -3,6 +3,7 @@
   I am going to watch [this entire playlist](https://youtube.com/playlist?list=PLBFlNqVVeLRwxPka8Ia1s21CS380folEA&si=Ry1s9J6yCDHpZwcb) made by [sorry stacy](https://www.youtube.com/channel/UCO3AOLFI3GsXAuRhYOR-wyA) and document my progress. This type of low-poly style is something I love, so I'm hoping I can create this in the future
 
   ## [Transparency Tutorial]( https://github.com/ThePeacook/Blender-Portfolio/tree/main/Daily3D%20Reddit#wine-glass)
+  Wine Glass section in the link
 
   ## [Isometric](https://youtu.be/J6b_pcAX1TQ?si=q7e2-6FREk54EysJ) [Room](https://youtu.be/9o7RDkFhOxg?si=BeNI9miF_BTCAg9N) [Tutorial](https://youtu.be/Pe7WD586jzk?si=PzDOez3inC_5RS0D)
   I will be skipping all 3 videos. I had a hard time following the video, and I felt that I wasn't learning. I am also using Blender 4.5.0, and I believe these videos are outdated. At 2:12 in the video, her faces was different from mine, and I couldn't continue. I swear I tried my best to continue through the video, but I have no clue. Even the more recent people in the comments are lost
