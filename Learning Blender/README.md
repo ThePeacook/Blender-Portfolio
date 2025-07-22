@@ -2,7 +2,10 @@
 
   I am going to watch [this entire playlist](https://youtube.com/playlist?list=PLBFlNqVVeLRwxPka8Ia1s21CS380folEA&si=Ry1s9J6yCDHpZwcb) made by [sorry stacy](https://www.youtube.com/channel/UCO3AOLFI3GsXAuRhYOR-wyA) and document my progress. This type of low-poly style is something I love, so I'm hoping I can create this in the future
 
-  ## [Transparency Tutorial]( https://github.com/ThePeacook/Blender-Portfolio/tree/main/Daily3D%20Reddit#wine-glass)
+  ## [Icon Animation Tutorial](https://youtu.be/nOxK5aecZOg?si=hMsmNrOVkZXmgrgi)
+  Will be watching soon
+
+  ## [Transparency Tutorial](https://github.com/ThePeacook/Blender-Portfolio/tree/main/Daily3D%20Reddit#wine-glass)
   Wine Glass section in the link
 
   ## [I](https://youtu.be/J6b_pcAX1TQ?si=q7e2-6FREk54EysJ)sometric [R](https://youtu.be/9o7RDkFhOxg?si=BeNI9miF_BTCAg9N)oom [T](https://youtu.be/Pe7WD586jzk?si=PzDOez3inC_5RS0D)utorial
