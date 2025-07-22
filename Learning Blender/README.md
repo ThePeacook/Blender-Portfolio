@@ -3,7 +3,7 @@
   I am going to watch [this entire playlist](https://youtube.com/playlist?list=PLBFlNqVVeLRwxPka8Ia1s21CS380folEA&si=Ry1s9J6yCDHpZwcb) made by [sorry stacy](https://www.youtube.com/channel/UCO3AOLFI3GsXAuRhYOR-wyA) and document my progress. This type of low-poly style is something I love, so I'm hoping I can create this in the future
 
   ## Ice Glass Build
-  I will be watching [this](https://youtu.be/jCVEtLjpeB8?si=q112PcTl8CLv6WWQ). I will also be making a wine glass from [this Reddit post](https://www.reddit.com/r/Daily3D/comments/1m5i9s4/daily3d_for_250721glass_of_wine/)
+  I will be watching [this video](https://youtu.be/jCVEtLjpeB8?si=q112PcTl8CLv6WWQ). I will also be making a wine glass from [this Reddit post](https://www.reddit.com/r/Daily3D/comments/1m5i9s4/daily3d_for_250721glass_of_wine/)
 
   ## Isometric Room Build
   I will be skipping [these](https://youtu.be/J6b_pcAX1TQ?si=q7e2-6FREk54EysJ) [three](https://youtu.be/9o7RDkFhOxg?si=BeNI9miF_BTCAg9N) [videos](https://youtu.be/Pe7WD586jzk?si=PzDOez3inC_5RS0D). I had a hard time following the video, and I felt that I wasn't learning. I am also using Blender 4.5.0, and I believe these videos are outdated. At 2:12 in the video, her faces was different from mine, and I couldn't continue. I swear I tried my best to continue through the video, but I have no clue. Even the more recent people in the comments are lost
