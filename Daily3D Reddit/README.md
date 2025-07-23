@@ -1,7 +1,8 @@
 # [r/Daily3D](https://www.reddit.com/r/Daily3D/)
 
 ## [Crown](https://www.reddit.com/r/Daily3D/comments/1m6dgk0/daily3d_for_250722crown/)
-I will make this later today
+Messed with the texturing a little, not much to add here
+
 [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Crown.blend)
 <details>
   <summary>Render:</summary>
