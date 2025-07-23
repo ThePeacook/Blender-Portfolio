@@ -1,8 +1,13 @@
 # [r/Daily3D](https://www.reddit.com/r/Daily3D/)
 
-## [Crown](https://www.reddit.com/r/Daily3D/comments/1m6dgk0/daily3d_for_250722crown/)
-Messed with the texturing a little, not much to add here
+## Cupcake
+[Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Cupcake.blend)
+<details>
+  <summary>Render:</summary>
+  <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Daily3D%20Reddit/Images/Cupcake.png" width="500">
+</details>
 
+## [Crown](https://www.reddit.com/r/Daily3D/comments/1m6dgk0/daily3d_for_250722crown/)
 [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Crown.blend)
 <details>
   <summary>Render:</summary>
