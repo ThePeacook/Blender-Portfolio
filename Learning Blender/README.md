@@ -13,8 +13,8 @@
   <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Learning%20Blender/Videos/Xbox%20360%20Controller%20Animation.gif" width="500">
 </details>
 
-  ## [Transparency Tutorial](https://github.com/ThePeacook/Blender-Portfolio/tree/main/Daily3D%20Reddit#wine-glass)
-  Wine Glass section in the link
+  ## [Transparency Tutorial](https://youtu.be/jCVEtLjpeB8?si=u0rKRmG5nHbvnQR3)
+  Wine Glass section in [this link](https://github.com/ThePeacook/Blender-Portfolio/tree/main/Daily3D%20Reddit#wine-glass)
 
   ## [I](https://youtu.be/J6b_pcAX1TQ?si=q7e2-6FREk54EysJ)sometric [R](https://youtu.be/9o7RDkFhOxg?si=BeNI9miF_BTCAg9N)oom [T](https://youtu.be/Pe7WD586jzk?si=PzDOez3inC_5RS0D)utorial
   I will be skipping all 3 videos. I had a hard time following the video, and I felt that I wasn't learning. I am also using Blender 4.5.0, and I believe these videos are outdated. At 2:12 in the video, her faces were different from mine, and I couldn't continue. I swear I tried my best to continue through the video, but I have no clue. Even the more recent people in the comments are lost
