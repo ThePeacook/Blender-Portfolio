@@ -5,7 +5,7 @@
   ## [Icon Animation Tutorial](https://youtu.be/nOxK5aecZOg?si=hMsmNrOVkZXmgrgi)
   When modeling the controller, I encountered numerous issues, but I continued to work on it nonetheless. Xbox/PlayStation controllers are really hard to model. I almost gave up completely on the build due to that, but I somehow made it. I learned modeling
 
-  [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Controller%20Animation.blend)
+  [Blender Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Controller%20Animation.blend)
   
 [MP4 Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Videos/Xbox%20360%20Controller%20Animation.mp4)
 <details>
@@ -21,7 +21,7 @@
 
   In the download, I added floor tiles just for the fun of it, but it wasn't the correct floor that the tutorial was showing
 
-[Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Isometric%20Bedroom.blend)
+[Blender Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Isometric%20Bedroom.blend)
 
   ## [Edit Mode Tutorial](https://youtu.be/8VmXzjgWQEg?si=tQnfDizexSrvXcY-)
   I watched half of it. I skipped the part where he made his build, and I decided on making a warehouse instead of a cafe. If I do have trouble with editing, I will check back to see if I missed anything important, but I am now comfortable using Object and Edit Mode. With lighting this time around? I'm starting to get it, but I'll need some more practice with it to be comfortable with it. I did have lots of trouble with modeling certain objects, but I figured them all out and was able to complete my vision without skipping any steps I planned on doing! Proud of myself for that
@@ -30,7 +30,7 @@
 
   I purposely didn't smooth out anything, because I wasn't going for a plastic/realistic look, I wanted to show the low polygons as it's the artstyle I'm going for. I did add too much detail to some parts, but that was mainly me testing out the tools, so I wasn't FULLY focused on the art style
 
-[Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Second%20Build.blend)
+[Blender Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Second%20Build.blend)
 <details>
   <summary>Render:</summary>
   <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Learning%20Blender/Images/Second%20Build.png" width="1000">
@@ -39,7 +39,7 @@
   ## [Object Mode Tutorial](https://youtu.be/uOmYInaX-wE?si=HwOj1ibuq26Y7SHJ)
   It taught me the basics of Blender very well. My biggest trouble I had was the lighting, but I feel confident about the rest. Various times, I got distracted and did my own thing. I was only meant to use object mode in the guide, but I did use edit mode on the bottom of the bush (You'll have to view it in the file), and the ground, which was originally a cylinder that I beveled and merged the tip. I also made sure to make the models my way, as that challenges me to be creative
   
-  [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/First%20Build.blend)
+  [Blender Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/First%20Build.blend)
 <details>
   <summary>Render:</summary>
   <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Learning%20Blender/Images/First%20Build.png" width="1000">
