@@ -3,7 +3,7 @@
   I am going to watch [this entire playlist](https://youtube.com/playlist?list=PLBFlNqVVeLRwxPka8Ia1s21CS380folEA&si=Ry1s9J6yCDHpZwcb) made by [sorry stacy](https://www.youtube.com/channel/UCO3AOLFI3GsXAuRhYOR-wyA) and document my progress. This type of low-poly style is something I love, so I'm hoping I can create this in the future
 
   ## [Icon Animation Tutorial](https://youtu.be/nOxK5aecZOg?si=hMsmNrOVkZXmgrgi)
-  When modeling the controller, I encountered numerous issues, but I continued to work on it nonetheless. Xbox/PlayStation controllers are really hard to model. I almost gave up completely on the build due to that, but I somehow made it. I learned modeling
+  When modeling the controller, I encountered numerous issues, but I continued to work on it nonetheless. Xbox/PlayStation controllers are really hard to model. I almost gave up completely on the build due to that, but I somehow made it. I learned animation by myself without even watching the video, but I should probably watch it
 
   [Blender Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Controller%20Animation.blend)
   
