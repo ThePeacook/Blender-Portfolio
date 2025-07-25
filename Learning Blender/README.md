@@ -7,7 +7,7 @@
 
   [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Controller%20Animation.blend)
   
-[MP4 Download](https://github.com/ThePeacook/Blender-Portfolio/blob/main/Learning%20Blender/Videos/Xbox%20360%20Controller%20Animation.mp4)
+[MP4 Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Videos/Xbox%20360%20Controller%20Animation.mp4)
 <details>
   <summary>Gif:</summary>
   <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Learning%20Blender/Videos/Xbox%20360%20Controller%20Animation.gif" width="500">
