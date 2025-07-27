@@ -1,6 +1,6 @@
 # [r/Daily3D](https://www.reddit.com/r/Daily3D/)
 
-## Cupcake
+## [Cupcake](https://www.reddit.com/r/Daily3D/comments/1m78mjx/daily3d_for_250723cupcake/)
 [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Cupcake.blend)
 <details>
   <summary>Render:</summary>
