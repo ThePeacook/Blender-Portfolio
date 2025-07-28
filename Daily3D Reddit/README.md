@@ -1,5 +1,12 @@
 # [r/Daily3D](https://www.reddit.com/r/Daily3D/)
 
+## [Trampoline](https://www.reddit.com/r/Daily3D/comments/1m8yjb8/daily3d_for_250725trampoline/)
+[Download]()
+<details>
+  <summary>Render:</summary>
+  <img src="" width="500">
+</details>
+
 ## [Cupcake](https://www.reddit.com/r/Daily3D/comments/1m78mjx/daily3d_for_250723cupcake/)
 [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Cupcake.blend)
 <details>
@@ -15,7 +22,7 @@
 </details>
 
 ## [Wine Glass](https://www.reddit.com/r/Daily3D/comments/1m5i9s4/daily3d_for_250721glass_of_wine/)
-  I watched [this video](https://youtu.be/jCVEtLjpeB8?si=q112PcTl8CLv6WWQ), but made a wine glass instead as part of the daily. I had lots of issues with the render. I couldn't understand the lighting at all since the video didn't explain the weird reflection effects I was getting, googling it didn't seem to help too. Modeling was a lot of fun though, I enjoyed making an object with vectors only
+  I watched [this video](https://youtu.be/jCVEtLjpeB8?si=q112PcTl8CLv6WWQ), but made a wine glass instead as part of the daily. I had lots of issues with the render. I couldn't understand the lighting at all since the video didn't explain the weird reflection effects I was getting, and googling it didn't seem to help too. Modeling was a lot of fun though, I enjoyed making an object with vectors only
 
   [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Wine%20Glass.blend)
 <details>
