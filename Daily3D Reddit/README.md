@@ -4,7 +4,7 @@
 [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Trampoline.blend)
 <details>
   <summary>Render:</summary>
-  <img src="" width="500">
+  <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Daily3D%20Reddit/Images/Trampoline.png" width="500">
 </details>
 
 ## [Cupcake](https://www.reddit.com/r/Daily3D/comments/1m78mjx/daily3d_for_250723cupcake/)
