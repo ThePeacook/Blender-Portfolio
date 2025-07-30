@@ -2,6 +2,10 @@
 
 ### [Ways to get in touch with me](https://linktr.ee/Peacook)
 
+## My Portfolio:
+- [Daily Challenges](https://github.com/ThePeacook/Blender-Portfolio/tree/main/Daily3D%20Reddit)
+- [Learning Blender](https://github.com/ThePeacook/Blender-Portfolio/tree/main/Learning%20Blender)
+
 ## My Experience:
 - 8/10 - Navigating
 - 8/10 - Object Mode
@@ -21,7 +25,3 @@
 - Compositing
 - Geometry Nodes
 - Coding
-
-## My Portfolio:
-- [Daily Challenges](https://github.com/ThePeacook/Blender-Portfolio/tree/main/Daily3D%20Reddit)
-- [Learning Blender](https://github.com/ThePeacook/Blender-Portfolio/tree/main/Learning%20Blender)
