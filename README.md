@@ -17,14 +17,10 @@
 - 0/10 - Texturing - Looked into a little
 - 0/10 - 3D Printing - Looked into a little. I own a 3D Printer
 - 0/10 - Rigging - Never looked into
-
-## My Weaknesses:
-- Rendering with lighting and transparency
-- I dislike using modifiers, as it makes it feel like I am not truly making those objects
+- 0/10 - Compositing - Never looked into
 
 ## Things I am currently not planning on doing:
 - 2D
 - Sculpting
-- Compositing
 - Geometry Nodes
 - Coding
