@@ -3,6 +3,7 @@
   I am going to watch [this entire playlist](https://youtube.com/playlist?list=PLBFlNqVVeLRwxPka8Ia1s21CS380folEA&si=Ry1s9J6yCDHpZwcb) made by [sorry stacy](https://www.youtube.com/channel/UCO3AOLFI3GsXAuRhYOR-wyA) and document my progress. This type of low-poly style is something I love, so I'm hoping I can create this in the future
 
   ## [Diorama Animation Tutorial](https://youtu.be/sL9ozfAivi0?si=tQU9slxua7__O2lh)
+  I was stuck thinking which diorama to make, so I just decided to make my bedroom. This could be a great way to learn more about lighting, as my computer has lighting. Though the tutorial is meant to have a cylinder floor, I chose a cube instead since it fit my piece better
 
   ## [Icon Animation Tutorial](https://youtu.be/nOxK5aecZOg?si=hMsmNrOVkZXmgrgi)
   When modeling the controller, I encountered numerous issues, but I continued to work on it nonetheless. Xbox controllers are really hard to model for a beginner. I almost gave up completely on the build due to that, but I somehow made it. I learned animation mainly with [this video](https://youtu.be/dHRl2n_-vds?si=uEb_9xh0WdCzuoOu). The playlist video wasn't as helpful compared to the other one I watched
