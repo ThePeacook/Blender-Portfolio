@@ -11,6 +11,7 @@
 - 8/10 - Object Mode - Object mode is the simplest thing to use, and I know how to use it fully, but I didn't look at everything it offers
 - 5/10 - Edit Mode - I know how to edit comfortably, but I still have to look up things to understand it
 - 3/10 - Rendering - I know how to render, but I still don't feel comfortable using it
+- 2/10 - Materials - I know how to use Materials, but tweaking the material to look just right has been a struggle for me
 - 2/10 - Animation - I know how to animate, but I only made one project out of it, and I know there's lots more to learn
 - 0/10 - UV Editing - Looked into a little
 - 0/10 - Texturing - Looked into a little
