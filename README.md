@@ -9,9 +9,9 @@
 ## My Experience:
 - 6/10 - Navigating (Understanding all the shortcut keys)
 - 6/10 - Object Mode
-- 3/10 - Edit Mode
-- 1/10 - Animation
-- 1/10 - Rendering
+- 5/10 - Edit Mode
+- 3/10 - Animation
+- 3/10 - Rendering
 - 0/10 - UV Editing
 - 0/10 - Texturing
 - 0/10 - Rigging
