@@ -1,5 +1,12 @@
 # [r/Daily3D](https://www.reddit.com/r/Daily3D/)
 
+## [Skateboard](https://www.reddit.com/r/Daily3D/comments/1md5z1x/daily3d_for_250730skateboard/)
+[Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Skateboard.blend)
+<details>
+  <summary>Render:</summary>
+  <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Daily3D%20Reddit/Images/Skateboard.png" width="500">
+</details>
+
 ## [Trampoline](https://www.reddit.com/r/Daily3D/comments/1m8yjb8/daily3d_for_250725trampoline/)
 [Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Daily3D%20Reddit/Files/Trampoline.blend)
 <details>
