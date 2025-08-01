@@ -24,3 +24,6 @@
 - Sculpting
 - Geometry Nodes
 - Coding
+
+## "What can I do with your .blender files?"
+  Anything, just as long as you don't use it for monetization purposes
