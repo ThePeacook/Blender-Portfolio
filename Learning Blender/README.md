@@ -4,11 +4,20 @@
 
   ## [Diorama Animation Tutorial](https://youtu.be/sL9ozfAivi0?si=tQU9slxua7__O2lh)
   I was stuck thinking which diorama to make, so I just decided to make my bedroom. This could be a great way to learn more about lighting, as my computer has lighting. Though the tutorial is meant to have a cylinder floor, I chose a cube instead since it fit my piece better
+  
+[Blender Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Diorama.blend)
+
+<details>
+  <summary>Gif:</summary>
+  <img src="https://github.com/ThePeacook/Blender-Portfolio/blob/main/Learning%20Blender/Videos/Bedroom.gif" width="500">
+</details>
+
+
 
   ## [Controller Animation Tutorial](https://youtu.be/nOxK5aecZOg?si=hMsmNrOVkZXmgrgi)
   When modeling the controller, I encountered numerous issues, but I continued to work on it nonetheless. Xbox controllers are really hard to model for a beginner. I almost gave up completely on the build due to that, but I somehow made it. I learned animation mainly with [this video](https://youtu.be/dHRl2n_-vds?si=uEb_9xh0WdCzuoOu). The playlist video wasn't as helpful compared to the other one I watched
 
-  [Blender Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Controller%20Animation.blend)
+[Blender Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Files/Controller%20Animation.blend)
   
 [MP4 Download](https://github.com/ThePeacook/Blender-Portfolio/raw/refs/heads/main/Learning%20Blender/Videos/Xbox%20360%20Controller%20Animation.mp4)
 <details>
