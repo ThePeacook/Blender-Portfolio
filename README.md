@@ -18,9 +18,11 @@
 - 0/10 - 3D Printing - Looked into a little. I own a 3D Printer
 - 0/10 - Rigging - Never looked into
 - 0/10 - Compositing - Never looked into
+- ?/10 - Drawing - Still looking for my style
+- ?/10 - Turn-Arounds -
+- ?/10 - Concept Art - 
 
 ## Things I am currently not planning on doing:
-- 2D
 - Sculpting
 - Geometry Nodes
 - Coding
