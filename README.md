@@ -15,12 +15,10 @@
 - 2/10 - Animation - I know how to animate, but I only made two projects out of it, and I know there's lots more to learn
 - 0/10 - UV Editing - Looked into a little
 - 0/10 - Texturing - Looked into a little
+- 0/10 - Geometry Nodes - Looked into a little
 - 0/10 - 3D Printing - Looked into a little. I own a 3D Printer
 - 0/10 - Rigging - Never looked into
 - 0/10 - Compositing - Never looked into
-- ?/10 - Drawing - Still looking for my style
-- ?/10 - Turn-Arounds -
-- ?/10 - Concept Art - 
 
 ## Things I am currently not planning on doing:
 - Sculpting
