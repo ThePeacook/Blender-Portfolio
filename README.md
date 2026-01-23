@@ -9,7 +9,7 @@
 
 ## Expectations:
 - Navigating - I need to learn more shortcut keys; other than that, I do very well at it
-- Editing - I am at the point of knowing how to make complex objects with a lattice
+- Editing - I am at the point of knowing how to make complex objects with subdivision
 - Lighting - I know how to make it good enough to work in a scene, but I have no complex knowledge
 - Materials - I know the essentials of material creation, but
 - Texturing - I know how to wrap objects using [Ambient CG](https://ambientcg.com/). I will never create my own textures since I don't do photography
